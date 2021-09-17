@@ -1,0 +1,14 @@
+Package: pack1
+Type: Package
+Title: Eucledian and Dijkstra Algorithms implementation
+Version: 1.0.0
+Author: Hamed
+Maintainer: Hamed <hamed.godazgar@gmail.com>
+Description: Implementation of Euclidean and Dijckstra's Algorithms in R.
+License: GPL (>= 2)
+Imports: igraph
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+Depends: R (>= 3.5)
+RoxygenNote: 7.1.2
